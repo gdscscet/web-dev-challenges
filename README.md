@@ -13,9 +13,13 @@ git clone https://github.com/gdscscet/web-dev-challenges.git
 ## Challenges
 Here are the challenges available in this repository:
 
-Challenge 1
-Challenge 2
-Challenge 3
+| Challenge | Link |
+|-----------|------|
+|Sign In Component| [link](https://github.com/gdscscet/web-dev-challenges/tree/main/intro-component-with-signup-form-master) |
+|Blog Landing Page| [link](https://github.com/gdscscet/web-dev-challenges/tree/main/blogr-landing-page-main) |
+|Interactive Card Details| [link](https://github.com/gdscscet/web-dev-challenges/tree/main/interactive-card-details-form-main) |
+|News Homepage| [link](https://github.com/gdscscet/web-dev-challenges/tree/main/news-homepage-main) |
+|Social Media Dashboard| [link](https://github.com/gdscscet/web-dev-challenges/tree/main/social-media-dashboard-with-theme-switcher-master) |
 
 ## Using the Starter Templates
 
